@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = "KubeLayout"
   spec.description   = "KubeLayout"
-  spec.homepage      = "https://github.com/Liveramp/kube_layout"
+  spec.homepage      = "https://github.com/LiveRamp/kube_layout"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
